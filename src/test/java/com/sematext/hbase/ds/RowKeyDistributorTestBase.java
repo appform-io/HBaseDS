@@ -1,4 +1,4 @@
-package com.shash.hbase.ds;
+package com.sematext.hbase.ds;
 
 import com.beust.jcommander.internal.Lists;
 import org.apache.hadoop.conf.Configuration;

@@ -1,5 +1,5 @@
 
-package com.shash.hbase.ds;
+package com.sematext.hbase.ds;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.hbase.HConstants;

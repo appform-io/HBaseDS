@@ -1,4 +1,4 @@
-package com.shash.hbase.ds;
+package com.sematext.hbase.ds;
 
 import org.apache.hadoop.hbase.client.Result;
 import org.apache.hadoop.hbase.client.ResultScanner;

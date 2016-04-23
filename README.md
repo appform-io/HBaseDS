@@ -2,12 +2,12 @@
 Source project - https://github.com/sematext/HBaseWD
 
 ###Changes
-The libraries used (hbase, hadoop etc) has been upgraded.
+The libraries used (hbase, hadoop etc) has been upgraded to use HDP version of the libraries & also hbase-server & zookeeper dependencies scope have been changed to provided.
 
 ###Build instructions
   - Clone the source:
 
-        git clone https://github.com/shashankg/HBaseDS.git
+        git clone https://github.com/phaneesh/HBaseDS.git
 
   - Build
 
@@ -26,17 +26,17 @@ The libraries used (hbase, hadoop etc) has been upgraded.
 ## Maven
 ```
 <dependency>
-    <groupId>com.shash.hbase.ds</groupId>
+    <groupId>com.sematext.hbase.ds</groupId>
     <artifactId>hbase-ds</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
 </dependency>
 ```
 ## Leiningen
 ```
-[com.shash.hbase.ds/hbase-ds "0.0.1"]
+[com.sematext.hbase.ds/hbase-ds "0.0.2-SNAPSHOT"]
 ```
 
 ## Gradle
 ```
-compile "com.shash.hbase.ds:hbase-ds:0.0.1"
+compile "com.sematext.hbase.ds:hbase-ds:0.0.2-SNAPSHOT"
 ```

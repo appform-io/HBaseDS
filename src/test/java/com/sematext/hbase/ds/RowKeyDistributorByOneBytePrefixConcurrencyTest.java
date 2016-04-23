@@ -1,4 +1,4 @@
-package com.shash.hbase.ds;
+package com.sematext.hbase.ds;
 
 import com.google.common.collect.Lists;
 import org.junit.Test;

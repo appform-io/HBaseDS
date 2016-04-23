@@ -1,4 +1,4 @@
-package com.shash.hbase.ds;
+package com.sematext.hbase.ds;
 
 public class RowKeyDistributorByHashPrefix_OneByteSimpleHashTest extends RowKeyDistributorTestBase {
 
