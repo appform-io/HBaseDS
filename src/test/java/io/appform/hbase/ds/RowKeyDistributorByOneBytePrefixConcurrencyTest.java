@@ -1,6 +1,7 @@
-package com.shash.hbase.ds;
+package io.appform.hbase.ds;
 
 import com.google.common.collect.Lists;
+import io.appform.hbase.ds.RowKeyDistributorByOneBytePrefix;
 import org.junit.Test;
 
 import java.util.HashMap;

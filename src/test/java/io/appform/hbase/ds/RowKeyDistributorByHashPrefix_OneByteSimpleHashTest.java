@@ -1,4 +1,4 @@
-package com.shash.hbase.ds;
+package io.appform.hbase.ds;
 
 public class RowKeyDistributorByHashPrefix_OneByteSimpleHashTest extends RowKeyDistributorTestBase {
 
