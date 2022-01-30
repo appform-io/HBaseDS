@@ -1,6 +1,6 @@
 HBaseDS
 ------------
-Source project - https://github.com/sematext/HBaseWD
+Source project - https://github.com/sematext/HBaseWD [![Java CI with Maven](https://github.com/appform-io/HBaseDS/actions/workflows/build-check.yml/badge.svg)](https://github.com/appform-io/HBaseDS/actions/workflows/build-check.yml)
 
 **The source library seems unmaintained. Hence following is the documentation inspired by the source which I will maintain. Contributions are appreciated. **
 
