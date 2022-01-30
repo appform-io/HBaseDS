@@ -1,4 +1,4 @@
-HBaseDS  [![Java CI with Maven](https://github.com/appform-io/HBaseDS/actions/workflows/build-check.yml/badge.svg)](https://github.com/appform-io/HBaseDS/actions/workflows/build-check.yml)
+HBaseDS  [![Java CI with Maven](https://github.com/appform-io/HBaseDS/actions/workflows/maven.yml/badge.svg)](https://github.com/appform-io/HBaseDS/actions/workflows/maven.yml)
 ------------
 Source project - https://github.com/sematext/HBaseWD
 
