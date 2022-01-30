@@ -61,6 +61,13 @@
         </repository>
     </distributionManagement>
 
+    <repositories>
+        <repository>
+            <id>horton</id>
+            <url>https://repo.hortonworks.com/content/repositories/releases/</url>
+        </repository>
+    </repositories>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compile.source>1.8</maven.compile.source>

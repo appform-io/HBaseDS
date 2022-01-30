@@ -96,38 +96,30 @@ Build instructions
 ------------
   - Clone the source:
 
-        git clone git@github.com:shashankg/HBaseDS.git
+        git clone git@github.com:apporfm-io/HBaseDS.git
 
   - Build
 
         mvn install
 
-Repo
-------------
-```
-<repository>
-    <id>clojars</id>
-    <name>Clojars repository</name>
-    <url>https://clojars.org/repo</url>
-</repository>
-```
+
 Dependency
 ------------
 
 **Maven**
 ```
 <dependency>
-    <groupId>com.shash.hbase.ds</groupId>
+    <groupId>io.appform.hbase.ds</groupId>
     <artifactId>hbase-ds</artifactId>
     <version>0.0.1</version>
 </dependency>
 ```
 **Leiningen**
 ```
-[com.shash.hbase.ds/hbase-ds "0.0.1"]
+[io.appform.hbase.ds/hbase-ds "0.0.1"]
 ```
 
 **Gradle**
 ```
-compile "com.shash.hbase.ds:hbase-ds:0.0.1"
+compile "io.appform.hbase.ds:hbase-ds:0.0.1"
 ```
