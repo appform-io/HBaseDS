@@ -1,4 +1,4 @@
-package com.sematext.hbase.ds;
+package io.appform.hbase.ds;
 
 public class RowKeyDistributorByHashPrefix_IdentityHashTest extends RowKeyDistributorTestBase {
 

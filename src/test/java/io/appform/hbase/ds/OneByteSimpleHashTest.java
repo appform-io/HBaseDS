@@ -1,5 +1,6 @@
-package com.sematext.hbase.ds;
+package io.appform.hbase.ds;
 
+import io.appform.hbase.ds.RowKeyDistributorByHashPrefix;
 import org.apache.hadoop.hbase.util.Bytes;
 import org.testng.Assert;
 import org.testng.annotations.Test;

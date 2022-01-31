@@ -1,4 +1,4 @@
-package com.sematext.hbase.ds;
+package io.appform.hbase.ds;
 
 import com.github.sakserv.minicluster.impl.HbaseLocalCluster;
 import com.github.sakserv.minicluster.impl.ZookeeperLocalCluster;

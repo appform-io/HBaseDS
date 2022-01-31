@@ -38,3 +38,6 @@ target
 
 .DS_Store
 .pom.xml.swp
+embedded*
+dep
+out
