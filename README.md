@@ -111,7 +111,7 @@ Dependency
 <dependency>
     <groupId>io.appform.hbase.ds</groupId>
     <artifactId>hbase-ds</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.3</version>
 </dependency>
 ```
 **Leiningen**
